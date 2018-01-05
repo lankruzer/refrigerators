@@ -1,0 +1,53 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-fb-link {
+    width: 9px;
+    height: 16px;
+    background-position: -5px -5px;
+}
+
+.sprite-fb-link-active {
+    width: 9px;
+    height: 16px;
+    background-position: -5px -31px;
+}
+
+.sprite-im-link {
+    width: 14px;
+    height: 15px;
+    background-position: -5px -57px;
+}
+
+.sprite-im-link-active {
+    width: 14px;
+    height: 15px;
+    background-position: -5px -82px;
+}
+
+.sprite-ok-link {
+    width: 10px;
+    height: 17px;
+    background-position: -5px -107px;
+}
+
+.sprite-ok-link-active {
+    width: 10px;
+    height: 17px;
+    background-position: -5px -134px;
+}
+
+.sprite-vk-link {
+    width: 18px;
+    height: 10px;
+    background-position: -5px -161px;
+}
+
+.sprite-vk-link-active {
+    width: 18px;
+    height: 10px;
+    background-position: -5px -181px;
+}

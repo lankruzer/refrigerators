@@ -1,0 +1,161 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-boiler {
+    width: 16px;
+    height: 22px;
+    background-position: -5px -5px;
+}
+
+.sprite-boiler-white {
+    width: 16px;
+    height: 22px;
+    background-position: -5px -37px;
+}
+
+.sprite-cleaner {
+    width: 18px;
+    height: 21px;
+    background-position: -5px -69px;
+}
+
+.sprite-cleaner-white {
+    width: 18px;
+    height: 21px;
+    background-position: -5px -100px;
+}
+
+.sprite-clock {
+    width: 38px;
+    height: 38px;
+    background-position: -5px -131px;
+}
+
+.sprite-clock-header {
+    width: 30px;
+    height: 30px;
+    background-position: -5px -179px;
+}
+
+.sprite-cooler {
+    width: 18px;
+    height: 26px;
+    background-position: -5px -219px;
+}
+
+.sprite-cooler-white {
+    width: 18px;
+    height: 26px;
+    background-position: -5px -255px;
+}
+
+.sprite-detail {
+    width: 38px;
+    height: 39px;
+    background-position: -5px -291px;
+}
+
+.sprite-electric-stove {
+    width: 24px;
+    height: 21px;
+    background-position: -5px -340px;
+}
+
+.sprite-electric-white {
+    width: 24px;
+    height: 21px;
+    background-position: -5px -371px;
+}
+
+.sprite-gas-stove {
+    width: 21px;
+    height: 25px;
+    background-position: -5px -402px;
+}
+
+.sprite-gas-white {
+    width: 21px;
+    height: 25px;
+    background-position: -5px -437px;
+}
+
+.sprite-iron {
+    width: 28px;
+    height: 16px;
+    background-position: -5px -472px;
+}
+
+.sprite-key {
+    width: 34px;
+    height: 38px;
+    background-position: -5px -498px;
+}
+
+.sprite-microwave {
+    width: 25px;
+    height: 17px;
+    background-position: -5px -546px;
+}
+
+.sprite-microwave-white {
+    width: 25px;
+    height: 17px;
+    background-position: -5px -573px;
+}
+
+.sprite-multi {
+    width: 23px;
+    height: 23px;
+    background-position: -5px -600px;
+}
+
+.sprite-multi-white {
+    width: 23px;
+    height: 23px;
+    background-position: -5px -633px;
+}
+
+.sprite-refrigerator {
+    width: 19px;
+    height: 23px;
+    background-position: -5px -666px;
+}
+
+.sprite-refrigerator-white {
+    width: 19px;
+    height: 23px;
+    background-position: -5px -699px;
+}
+
+.sprite-shield {
+    width: 32px;
+    height: 38px;
+    background-position: -5px -732px;
+}
+
+.sprite-steamer {
+    width: 24px;
+    height: 33px;
+    background-position: -5px -780px;
+}
+
+.sprite-warning {
+    width: 15px;
+    height: 14px;
+    background-position: -5px -823px;
+}
+
+.sprite-washer {
+    width: 21px;
+    height: 24px;
+    background-position: -5px -847px;
+}
+
+.sprite-washer-white {
+    width: 21px;
+    height: 24px;
+    background-position: -5px -881px;
+}
